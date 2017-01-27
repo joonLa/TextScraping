@@ -1,0 +1,34 @@
+Altaiskii_uni.txt
+Amur_uni.txt
+Arkhangelskya_uni.txt
+Chechenskaya_uni.txt
+Chukotskii_uni.txt
+Kaliningradskaya_uni.txt
+Kaluzhskaya_uni.txt
+Khabarovskii_uni.txt
+Khanty-Mansiiskii_uni.txt
+Magadanskaya_uni.txt
+Moskovskaya oblast_uni.txt
+Moskva Prof_uni.txt
+Murmanskaya_uni.txt
+Nenetskii_uni.txt
+Novosibirskaya_uni.txt
+Penzenskaya_uni.txt
+Primorskii_uni.txt
+Respublika Adygeya_uni.txt
+Respublika Altai_uni.txt
+Respublika Ingushetiya_uni.txt
+Respublika Kareliya_uni.txt
+Ryazanskaya_uni.txt
+Sankt-Peterburg_uni.txt
+Stavropolskii_uni.txt
+Sverdlovskaya_uni.txt
+Tambovskaya_uni.txt
+Tomskaya_uni.txt
+Tulskaya_uni.txt
+Tyumenskaya_uni.txt
+Udmurtskaya_uni.txt
+Ulyanovskaya_uni.txt
+Vladimir_uni.txt
+Yamalo-Nenetskii_uni.txt
+Yaroslavskaya_uni.txt
