@@ -1,34 +1,81 @@
-Altaiskii_uni.txt
-Amur_uni.txt
-Arkhangelskya_uni.txt
-Chechenskaya_uni.txt
-Chukotskii_uni.txt
-Kaliningradskaya_uni.txt
-Kaluzhskaya_uni.txt
-Khabarovskii_uni.txt
-Khanty-Mansiiskii_uni.txt
-Magadanskaya_uni.txt
-Moskovskaya oblast_uni.txt
-Moskva Prof_uni.txt
-Murmanskaya_uni.txt
-Nenetskii_uni.txt
-Novosibirskaya_uni.txt
-Penzenskaya_uni.txt
-Primorskii_uni.txt
-Respublika Adygeya_uni.txt
-Respublika Altai_uni.txt
-Respublika Ingushetiya_uni.txt
-Respublika Kareliya_uni.txt
-Ryazanskaya_uni.txt
-Sankt-Peterburg_uni.txt
-Stavropolskii_uni.txt
-Sverdlovskaya_uni.txt
-Tambovskaya_uni.txt
-Tomskaya_uni.txt
-Tulskaya_uni.txt
-Tyumenskaya_uni.txt
-Udmurtskaya_uni.txt
-Ulyanovskaya_uni.txt
-Vladimir_uni.txt
-Yamalo-Nenetskii_uni.txt
-Yaroslavskaya_uni.txt
+Altaiskii.txt
+Amurskaya.txt
+Arkhangelskaya.txt
+Astrakhanskaya.txt
+Belgorodskaya.txt
+Bryanskaya.txt
+Chechenskaya.txt
+Chelyabinskaya.txt
+Chukotskii.txt
+Chuvashskaya.txt
+Evreiskaya.txt
+Irkutskaya.txt
+Ivanovskaya.txt
+Kabarno Balkarskaya.txt
+Kaliningradskaya.txt
+Kaluzhskaya.txt
+Kamchatskii.txt
+Karachaevo Cherkesskaya.txt
+Khabarovskii.txt
+Khanty Mansiiskii.txt
+Kirovskaya.txt
+Kostromskaya.txt
+Krasnoyarskii.txt
+Kurganskaya.txt
+Kurskaya.txt
+Lipetskaya.txt
+Magadanskaya.txt
+Moscow.txt
+Moskovskaya.txt
+Murmanskaya.txt
+Nenetskii.txt
+Nizhegorodskaya.txt
+Novgorodskaya.txt
+Novosibirskaya.txt
+Omskaya.txt
+Orenburgskaya.txt
+Orlovskaya.txt
+Penzenskaya.txt
+Permskii.txt
+Primorskii.txt
+Pskovskaya.txt
+Respublika Adygeya.txt
+Respublika Altai.txt
+Respublika Bashkortostan.txt
+Respublika Buryatiya.txt
+Respublika Dagestan.txt
+Respublika Ingushetiya.txt
+Respublika Kalmykiya.txt
+Respublika Kareliya.txt
+Respublika Khakasiya.txt
+Respublika Komi.txt
+Respublika Krym and Gorod Sevastopol.txt
+Respublika Marii El.txt
+Respublika Mordoviya.txt
+Respublika Sakha Yakutiya.txt
+Respublika Severnaya Osetiya.txt
+Respublika Tatarstan.txt
+Respublika Tyva.txt
+Rostovskaya.txt
+Ryazanskaya.txt
+Sakhalinskaya.txt
+Samarskaya.txt
+Sankt Peterburg and Leningradskaya.txt
+Saratovskaya.txt
+Smolenskaya.txt
+Stavropolskii.txt
+Sverdlovskaya.txt
+Tambovskaya.txt
+Tomskaya.txt
+Tulskaya.txt
+Tverskaya.txt
+Tyumenskaya.txt
+Udmurtskaya.txt
+Ulyanovskaya.txt
+Vladimirskaya.txt
+Volgogradskaya.txt
+Vologodskaya.txt
+Voronezhskaya.txt
+Yamalo Nenetskii.txt
+Yaroslavskaya.txt
+Zabaikalskii.txt
